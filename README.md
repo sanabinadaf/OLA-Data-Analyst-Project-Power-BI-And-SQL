@@ -1,17 +1,9 @@
-# Public-Data-Analysis-COVID-Urban-Mobility-
-
-Analysis of public data related to COVID-19 and urban mobility patterns
-
-Extracted and cleaned large public datasets related to COVID-19 cases, environmental conditions, and urban mobility using SQL.
-
-Designed SQL queries to aggregate daily, weekly, and regional metrics for analysis.
-
-Performed time-series analysis to identify trends, seasonal patterns, and sudden spikes in case growth and mobility changes.
-
-Analyzed region-wise data to identify high-risk hotspots and mobility patterns impacting case spread.
-
-Built interactive Power BI dashboards to visualize KPIs such as case growth, mobility trends, and pollution levels.
-
-Implemented filters and drill-downs to enable region, date, and category-wise analysis.
-
-Provided data-driven insights to support public safety planning and urban decision-making.
+**OLA Data Predication 
+**
+Technologies: Power BI, SQL, Excel  
+ Extracted and cleaned large volumes of OLA ride data using SQL to ensure accuracy and consistency. 
+ Analyzed key factors such as ride demand, peak hours, cancellation rates, and driver performance. 
+ Designed interactive Power BI dashboards to visualize daily, weekly, and monthly booking trends. 
+ Used Excel for forecasting ride demand, creating pivot tables, and performing statistical analysis.  
+ Identified high-demand locations and time slots to support better driver allocation and pricing strategy.  
+ Provided data-driven insights that could help improve operational efficiency and customer satisfaction.
